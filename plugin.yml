@@ -1,7 +1,7 @@
 name: JamSuKick
 main: meta\jamsu\JamSuKick
-version: "1.0"
 author: "Team. Metatron"
+version: "1.0"
 api:
 - 3.0.0
 - 2.0.0
